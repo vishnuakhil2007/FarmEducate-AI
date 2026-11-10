@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2E7D32"                  # Forest green for buttons & highlights
+backgroundColor = "#F9FBF8"             # Clean, off-white background
+secondaryBackgroundColor = "#E8F5E9"    # Soft green for sidebars & cards
+textColor = "#1B5E20"                   # Dark green for text
+font = "sans serif"
